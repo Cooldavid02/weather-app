@@ -2,7 +2,7 @@
 
 A sleek, responsive weather application that displays current weather conditions for popular cities around the world using the OpenWeather API.
 
-https://i.postimg.cc/W4Zd77Yp/Whats-App-Image-2025-11-10-at-11-43-37-AM.jpg
+![Weather App](https://i.postimg.cc/W4Zd77Yp/Whats-App-Image-2025-11-10-at-11-43-37-AM.jpg)
 ✨ Features
 
     Real-time Weather Data: Get current weather conditions for New York, London, and Tokyo
